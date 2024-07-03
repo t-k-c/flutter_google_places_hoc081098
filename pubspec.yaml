@@ -24,7 +24,7 @@ dependencies:
   http: ^1.2.1
   rxdart: ^0.27.7
   rxdart_ext: ^0.2.8
-  listenable_stream
+  listenable_stream:
     git:
       url: https://github.com/t-k-c/listenable_stream.git # i can't do otherwise
   collection: ^1.18.0
